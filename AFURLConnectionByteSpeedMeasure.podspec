@@ -11,5 +11,5 @@ Pod::Spec.new do |spec|
   spec.summary      = 'Extends AFNetworking with the ability to measure connection speed and estimate completion time.'
   spec.author       = { 'Oliver Letterer' => 'oliver.letterer@gmail.com' }
 
-  spec.dependency     'AFNetworking', '~> 1.0'
+  spec.dependency     'AFNetworking', '~> 2.0'
 end
